@@ -1,0 +1,31 @@
+{
+  "data": {
+    "media_id": "5536",
+    "program_id": "585",
+    "title_of_program": "Huyen Test Playlist has 20 items",
+    "title_of_video": "Huyen Test VOD by metadata",
+    "thumbnail": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
+    "thumbnail_large": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
+    "duration": "170690",
+    "url": "https://vod.dev.ottclouds.com/vods/4/17HCRN71pe3Il7jx2mVA_MEDIA_20230109-013855_1673257135729_oIC9Pmp4/playlist.m3u8",
+    "metadatas": {
+      "title": "Huyen Test VOD by metadata",
+      "description": "",
+      "long_description": "",
+      "series_title": "",
+      "season_title": "",
+      "season_year": "",
+      "genres": "",
+      "artist": "",
+      "directors": "",
+      "writer": "",
+      "cast": "",
+      "age_restriction": ""
+    },
+    "has_liked": false,
+    "total_like": 0,
+    "accept_download": false,
+    "geo_block": false
+  },
+  "success": true
+}
