@@ -22,10 +22,12 @@
       "cast": "Linda Cam, Hieu Minh, Tran My Bui, Jackfive, MiuVilla, Rose Back, Jacob William, Lee Min Sung, Han Chi Mi",
       "age_restriction": "PG-13"
     },
-    "has_liked": false,
+    "is_liked": false,
     "total_like": 0,
+    "total_comment: 20,
     "accept_download": false,
-    "geo_block": false
+    "geo_block": false,
+    "resume_position": 10000
   },
   "success": true
 }
