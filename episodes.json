@@ -47,7 +47,7 @@
         "cast": "Chris Wood, Julia Leaf",
         "age_restriction": "G"
       },
-      "accept_download": true,
+      "accept_download": false,
       "geo_block": false
     },
     {
@@ -73,7 +73,7 @@
         "age_restriction": "PG-13"
       },
       "accept_download": false,
-      "geo_block": true
+      "geo_block": false
     },
     {
       "media_id": "5542",
@@ -97,7 +97,7 @@
         "cast": "Fan Bingbing, Tony Leung",
         "age_restriction": "PG"
       },
-      "accept_download": true,
+      "accept_download": false,
       "geo_block": false
     },
     {
@@ -123,7 +123,7 @@
         "age_restriction": "G"
       },
       "accept_download": false,
-      "geo_block": true
+      "geo_block": false
     },
     {
       "media_id": "5544",
@@ -147,7 +147,7 @@
         "cast": "Astro Moon, Comet Tail",
         "age_restriction": "G"
       },
-      "accept_download": true,
+      "accept_download": false,
       "geo_block": false
     },
     {
@@ -173,7 +173,7 @@
         "age_restriction": "PG"
       },
       "accept_download": false,
-      "geo_block": true
+      "geo_block": false
     },
     {
       "media_id": "5566",
@@ -222,8 +222,8 @@
         "cast": "Lucas Kane, Ellen Fry",
         "age_restriction": "PG"
       },
-      "accept_download": true,
-      "geo_block": true
+      "accept_download": false,
+      "geo_block": false
     },
     {
       "media_id": "5568",
@@ -248,7 +248,7 @@
         "age_restriction": "G"
       },
       "accept_download": false,
-      "geo_block": true
+      "geo_block": false
     }
   ],
   "success": true
