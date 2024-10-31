@@ -7,11 +7,10 @@
     "thumbnail": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
     "thumbnail_large": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
     "duration": "170690",
-    "url": "https://vod.dev.ottclouds.com/vods/4/17HCRN71pe3Il7jx2mVA_MEDIA_20230109-013855_1673257135729_oIC9Pmp4/playlist.m3u8",
     "metadatas": {
       "title": "This is Title: Five years after the war has ended Hansu is at the top of the criminal underworld — but his riches come at a great price.",
       "description": "This is Short Description: Pachinko is an American drama television series created by Soo Hugh based on the 2017 novel by Min Jin Lee. The series premiered on Apple TV+ on March 25, 2022. It received critical acclaim, particularly for its cinematography, writing, and the performances of the cast. The second season premiered on August 23, 2024.",
-      "long_description": "This is Long Description: The narrative begins in 1915 Yeongdo, a small island of the second largest city Busan, in Japanese-occupied Korea with Yangjin, evidently in some anguish, visiting a female shaman's house, where Yangjin recounts that she is married to a kind man with a cleft-lip with whom she has born three sons, none of whom have lived beyond one year, and asks the shaman to "lift the curse" of her childbearing. The narrative jumps to 1989 in New York City, where it follows a young, sharply-dressed Korean-American business man, who we later learn is originally from Japan and is named Solomon, as he attends a performance-review meeting with two of his managers, who inform him that, despite his stellar performance, he has not been selected by executives for a promotion to Vice President, news that prompts Solomon to boldly propose in the meeting that he be sent to Japan in order to close a stalled business deal worth millions of dollars, since he is confident he can cajole a Korean woman who is holding up the deal, in order to secure for himself the promotion and pay raise he covets.",
+      "long_description": "This is Long Description: The narrative begins in 1915 Yeongdo, a small island of the second largest city Busan, in Japanese-occupied Korea with Yangjin, evidently in some anguish, visiting a female shaman's house, where Yangjin recounts that she is married to a kind man with a cleft-lip with whom she has born three sons, none of whom have lived beyond one year, and asks the shaman to lift the curse of her childbearing. The narrative jumps to 1989 in New York City, where it follows a young, sharply-dressed Korean American business man, who we later learn is originally from Japan and is named Solomon, as he attends a performance-review meeting with two of his managers, who inform him that, despite his stellar performance, he has not been selected by executives for a promotion to Vice President, news that prompts Solomon to boldly propose in the meeting that he be sent to Japan in order to close a stalled business deal worth millions of dollars, since he is confident he can cajole a Korean woman who is holding up the deal, in order to secure for himself the promotion and pay raise he covets.",
       "series_title": "Pachinko",
       "season_title": "Season 2 - The lady in the Scarlet",
       "season_year": "2024",
@@ -22,12 +21,14 @@
       "cast": "Linda Cam, Hieu Minh, Tran My Bui, Jackfive, MiuVilla, Rose Back, Jacob William, Lee Min Sung, Han Chi Mi",
       "age_restriction": "PG-13"
     },
-    "is_liked": false,
+    "has_liked": false,
+    "is_saved":true,
     "total_like": 0,
     "total_comment": 20,
     "accept_download": false,
     "geo_block": false,
-    "resume_position": 10000
+    "resume_position": 10000,
+    "url": "https://vod.dev.ottclouds.com/vods/4/17HCRN71pe3Il7jx2mVA_MEDIA_20230109-013855_1673257135729_oIC9Pmp4/playlist.m3u8"
   },
   "success": true
 }
