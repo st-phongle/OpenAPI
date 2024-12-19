@@ -1,0 +1,249 @@
+{
+  "data": [
+    {
+      "category_id": "440",
+      "category_name": "Titan Sub02",
+      "playlist": [
+        {
+          "program_id": "705",
+          "title_of_program": "Attack on Titan 03",
+          "thumbnail": "https://picsum.photos/id/101/200/300",
+          "is_new": true,
+          "has_new_episode": true,
+          "update_date": "2024-11-14 03:32:43",
+          "first_video": {
+            "media_id": "6016",
+            "program_id": "705",
+            "title_of_program": "Attack on Titan 03",
+            "title_of_video": "Titan p1",
+            "thumbnail": "https://picsum.photos/id/102/200/300",
+            "thumbnail_large": "https://picsum.photos/id/103/200/300",
+            "duration": "120235",
+            "resume_position": "10000"
+          }
+        },
+        {
+          "program_id": "706",
+          "title_of_program": "Attack on Titan 04",
+          "thumbnail": "https://picsum.photos/id/104/200/300",
+          "is_new": false,
+          "has_new_episode": true,
+          "update_date": "2024-11-15 03:32:43",
+          "first_video": {
+            "media_id": "6017",
+            "program_id": "706",
+            "title_of_program": "Attack on Titan 04",
+            "title_of_video": "Titan p2",
+            "thumbnail": "https://picsum.photos/id/105/200/300",
+            "thumbnail_large": "https://picsum.photos/id/106/200/300",
+            "duration": "150235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 2
+    },
+    {
+      "category_id": "441",
+      "category_name": "Titan Sub03",
+      "playlist": [
+        {
+          "program_id": "707",
+          "title_of_program": "Attack on Titan 05",
+          "thumbnail": "https://picsum.photos/id/107/200/300",
+          "is_new": true,
+          "has_new_episode": false,
+          "update_date": "2024-11-16 03:32:43",
+          "first_video": {
+            "media_id": "6018",
+            "program_id": "707",
+            "title_of_program": "Attack on Titan 05",
+            "title_of_video": "Titan p3",
+            "thumbnail": "https://picsum.photos/id/108/200/300",
+            "thumbnail_large": "https://picsum.photos/id/109/200/300",
+            "duration": "160235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "442",
+      "category_name": "Titan Sub04",
+      "playlist": [
+        {
+          "program_id": "708",
+          "title_of_program": "Attack on Titan 06",
+          "thumbnail": "https://picsum.photos/id/110/200/300",
+          "is_new": false,
+          "has_new_episode": false,
+          "update_date": "2024-11-17 03:32:43",
+          "first_video": {
+            "media_id": "6019",
+            "program_id": "708",
+            "title_of_program": "Attack on Titan 06",
+            "title_of_video": "Titan p4",
+            "thumbnail": "https://picsum.photos/id/111/200/300",
+            "thumbnail_large": "https://picsum.photos/id/112/200/300",
+            "duration": "170235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "443",
+      "category_name": "Titan Sub05",
+      "playlist": [
+        {
+          "program_id": "709",
+          "title_of_program": "Attack on Titan 07",
+          "thumbnail": "https://picsum.photos/id/113/200/300",
+          "is_new": true,
+          "has_new_episode": true,
+          "update_date": "2024-11-18 03:32:43",
+          "first_video": {
+            "media_id": "6020",
+            "program_id": "709",
+            "title_of_program": "Attack on Titan 07",
+            "title_of_video": "Titan p5",
+            "thumbnail": "https://picsum.photos/id/114/200/300",
+            "thumbnail_large": "https://picsum.photos/id/115/200/300",
+            "duration": "180235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "444",
+      "category_name": "Titan Sub06",
+      "playlist": [
+        {
+          "program_id": "710",
+          "title_of_program": "Attack on Titan 08",
+          "thumbnail": "https://picsum.photos/id/116/200/300",
+          "is_new": false,
+          "has_new_episode": false,
+          "update_date": "2024-11-19 03:32:43",
+          "first_video": {
+            "media_id": "6021",
+            "program_id": "710",
+            "title_of_program": "Attack on Titan 08",
+            "title_of_video": "Titan p6",
+            "thumbnail": "https://picsum.photos/id/117/200/300",
+            "thumbnail_large": "https://picsum.photos/id/118/200/300",
+            "duration": "190235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "445",
+      "category_name": "Titan Sub07",
+      "playlist": [
+        {
+          "program_id": "711",
+          "title_of_program": "Attack on Titan 09",
+          "thumbnail": "https://picsum.photos/id/119/200/300",
+          "is_new": true,
+          "has_new_episode": false,
+          "update_date": "2024-11-20 03:32:43",
+          "first_video": {
+            "media_id": "6022",
+            "program_id": "711",
+            "title_of_program": "Attack on Titan 09",
+            "title_of_video": "Titan p7",
+            "thumbnail": "https://picsum.photos/id/120/200/300",
+            "thumbnail_large": "https://picsum.photos/id/121/200/300",
+            "duration": "200235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "446",
+      "category_name": "Titan Sub08",
+      "playlist": [
+        {
+          "program_id": "712",
+          "title_of_program": "Attack on Titan 10",
+          "thumbnail": "https://picsum.photos/id/122/200/300",
+          "is_new": true,
+          "has_new_episode": true,
+          "update_date": "2024-11-21 03:32:43",
+          "first_video": {
+            "media_id": "6023",
+            "program_id": "712",
+            "title_of_program": "Attack on Titan 10",
+            "title_of_video": "Titan p8",
+            "thumbnail": "https://picsum.photos/id/123/200/300",
+            "thumbnail_large": "https://picsum.photos/id/124/200/300",
+            "duration": "210235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "447",
+      "category_name": "Titan Sub09",
+      "playlist": [
+        {
+          "program_id": "713",
+          "title_of_program": "Attack on Titan 11",
+          "thumbnail": "https://picsum.photos/id/125/200/300",
+          "is_new": false,
+          "has_new_episode": false,
+          "update_date": "2024-11-22 03:32:43",
+          "first_video": {
+            "media_id": "6024",
+            "program_id": "713",
+            "title_of_program": "Attack on Titan 11",
+            "title_of_video": "Titan p9",
+            "thumbnail": "https://picsum.photos/id/126/200/300",
+            "thumbnail_large": "https://picsum.photos/id/127/200/300",
+            "duration": "220235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    },
+    {
+      "category_id": "448",
+      "category_name": "Titan Sub10",
+      "playlist": [
+        {
+          "program_id": "714",
+          "title_of_program": "Attack on Titan 12",
+          "thumbnail": "https://picsum.photos/id/128/200/300",
+          "is_new": true,
+          "has_new_episode": true,
+          "update_date": "2024-11-23 03:32:43",
+          "first_video": {
+            "media_id": "6025",
+            "program_id": "714",
+            "title_of_program": "Attack on Titan 12",
+            "title_of_video": "Titan p10",
+            "thumbnail": "https://picsum.photos/id/129/200/300",
+            "thumbnail_large": "https://picsum.photos/id/130/200/300",
+            "duration": "230235",
+            "resume_position": "10000"
+          }
+        }
+      ],
+      "total_item": 1
+    }
+  ],
+  "success": true,
+  "total_rows": 9
+}
