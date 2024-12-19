@@ -1,0 +1,33 @@
+{
+  "total_rows": 2,
+  "data": [
+    {
+      "id": "1",
+      "title": null,
+      "thumbnail": null,
+      "thumbnail_large": "https://picsum.photos/id/200/1200/1800",
+      "total_videos": 0,
+      "type": "my_list",
+      "first_video": null
+    },
+    {
+      "id": "2",
+      "title": "Attack on Titan 1",
+      "thumbnail": "https://picsum.photos/id/200/200/300",
+      "thumbnail_large": "https://picsum.photos/id/200/1200/1800",
+      "total_videos": 1,
+      "type": "series",
+      "first_video": {
+        "media_id": "6023",
+        "program_id": "712",
+        "title_of_program": "Attack on Titan 10",
+        "title_of_video": "Titan p8",
+        "thumbnail": "https://picsum.photos/id/207/200/300",
+        "thumbnail_large": "https://picsum.photos/id/207/200/300",
+        "duration": "210235",
+        "resume_position": "80000"
+      }
+    }
+  ],
+  "success": true
+}
