@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "type": "my_list",
+      "play_list": {
+        "title": "",
+        "id": "1",
+        "added": true
+      }
+    },
+    {
+      "type": "series",
+      "play_list": {
+        "added": true,
+        "title": "U1MYdR2pv5",
+        "id": "41568"
+      }
+    }
+  ],
+  "success": true
+}
