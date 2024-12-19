@@ -3,14 +3,14 @@
     {
       "media_id": "5536",
       "program_id": "585",
-      "title_of_program": "This is Title: Five years after the war has ended Hansu is at the top of the criminal underworld — but his riches come at a great price.",
-      "title_of_video": "This is Playlist Title: Pachiko",
+      "title_of_program": "Uyen test episode listThis is Title: Five years after the war has ended Hansu is at the top of the criminal underworld — but his riches come at a great price.",
+      "title_of_video": "This is Playlist Title: abcd",
       "thumbnail": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
       "thumbnail_large": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
-      "duration": "170690",
+      "duration": "120690",
       "metadatas": {
         "title": "Huyen Test VOD by metadata",
-        "description": "This is Short Description: Pachinko is an American drama television series created by Soo Hugh based on the 2017 novel by Min Jin Lee. The series premiered on Apple TV+ on March 25, 2022. It received critical acclaim, particularly for its cinematography, writing, and the performances of the cast. The second season premiered on August 23, 2024.",
+        "description": "1234",
         "long_description": "This is Long Description: The narrative begins in 1915 Yeongdo, a small island of the second largest city Busan, in Japanese-occupied Korea with Yangjin, evidently in some anguish, visiting a female shaman's house, where Yangjin recounts that she is married to a kind man with a cleft-lip with whom she has born three sons, none of whom have lived beyond one year, and asks the shaman to 'lift the curse' of her childbearing. The narrative jumps to 1989 in New York City, where it follows a young, sharply-dressed Korean-American business man, who we later learn is originally from Japan and is named Solomon, as he attends a performance-review meeting with two of his managers, who inform him that, despite his stellar performance, he has not been selected by executives for a promotion to Vice President, news that prompts Solomon to boldly propose in the meeting that he be sent to Japan in order to close a stalled business deal worth millions of dollars, since he is confident he can cajole a Korean woman who is holding up the deal, in order to secure for himself the promotion and pay raise he covets.",
         "series_title": "Pachinko",
         "season_title": "Season 2 - The lady in the Scarlet",
@@ -24,13 +24,18 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": true,
+      "is_saved": true,
+      "total_like": 1000,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5540",
       "program_id": "585",
-      "title_of_program": "Title: The Secret Forest",
-      "title_of_video": "Playlist Title: Into the Woods",
+      "title_of_program": "Qc test 2 Title: The Secret Forest",
+      "title_of_video": "QC test 2Playlist Title: Into the Woods",
       "thumbnail": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
       "thumbnail_large": "https://images.dev.ottclouds.com/4/fuKCTHn5XX4An9mIJirW__20240704-144352_1720079032970.jpg?Expires=1729493544&Signature=JcNouq-nUqgYNlo2aP2zBHCxaAk8pktC3xv-lhypccEPBJKk-qGxAzLhWOP715~ANeqbnhXC0iLQjMdHhs5B7PCMLCuvqWKseXEV9svRF4JQ1~pcXwyc7jE7XR~qN6WWB86jZjiwcU2Yxm0fgup5a8oYB-PPCO28-cRK4fWPVhlUgS2PB3bcRqChptGQyGKXv~50ftfNPzuFOQouVcZzSwjtNCrPHNfFyM9HbgmvGqF~rGCWTMS5alsg7XQaNs6G0ykXeQcYZZyfrhhsiCHzPaQBopYzgAJa8kseLa047ITTGNIveJ0xHXOF1an3kTsF4t7SoJANJ2N-SF05afC-Sw__&Key-Pair-Id=K365448S5O69EO",
       "duration": "130000",
@@ -44,19 +49,24 @@
         "genres": "Documentary, Nature",
         "artist": "Forest Green",
         "directors": "Olivia Tree",
-        "writer": "David Branch",
+        "writer": "Davidirectorsd Branch",
         "cast": "Chris Wood, Julia Leaf",
         "age_restriction": "G"
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://flipfit-cdn.akamaized.net/flip_hls/664d87dfe8e47500199ee49e-dbd56b/video_h1.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5541",
       "program_id": "585",
       "title_of_program": "Title: The Last Samurai",
-      "title_of_video": "Playlist Title: Warrior's Path",
+      "title_of_video": "QC test 3Playlist Title: Warrior's Path",
       "thumbnail": "https://images.dev.ottclouds.com/4/ex33Qb01ocAa0s4eEKY3__20240701-114540_1719809140383.jpg?Expires=1729568805&Signature=QQjGr3CGf6Q305yXy0cTRipJpSEcK2hdZri2qAVClgEinx0AqFMWUyXul7oaGzxtDL7a5WwHVn1bbyKfbLQ1M9mCaEF3rCWzawJ2fXsPIznL4CBdEwY85xDm0xXhKhrSOoI~fC5VHhKPmbxauvNFChQVoQZ0rfeDBnY1uBr5zy7wHG4ICAa-XhL5TpD3qQ43WvjEU6N-bAltygg7EjcZUtpLSwS6B9emOOQ5aVqGy5oY5CBcKI6hf1JU9N2xWzb8OVkdLLQABcSxquJpfk8e3QlSd9rXetreb7Zx1~iSzBICebdWy5I3EoIkJNlYJUPA2TG9crs0TblJosq9o5QnJg__&Key-Pair-Id=K365448S5O69EO",
       "thumbnail_large": "https://images.dev.ottclouds.com/4/ex33Qb01ocAa0s4eEKY3__20240701-114540_1719809140383.jpg?Expires=1729568805&Signature=QQjGr3CGf6Q305yXy0cTRipJpSEcK2hdZri2qAVClgEinx0AqFMWUyXul7oaGzxtDL7a5WwHVn1bbyKfbLQ1M9mCaEF3rCWzawJ2fXsPIznL4CBdEwY85xDm0xXhKhrSOoI~fC5VHhKPmbxauvNFChQVoQZ0rfeDBnY1uBr5zy7wHG4ICAa-XhL5TpD3qQ43WvjEU6N-bAltygg7EjcZUtpLSwS6B9emOOQ5aVqGy5oY5CBcKI6hf1JU9N2xWzb8OVkdLLQABcSxquJpfk8e3QlSd9rXetreb7Zx1~iSzBICebdWy5I3EoIkJNlYJUPA2TG9crs0TblJosq9o5QnJg__&Key-Pair-Id=K365448S5O69EO",
       "duration": "180000",
@@ -67,7 +77,7 @@
         "series_title": "Samurai Chronicles",
         "season_title": "Season 1 - The Fall of the Samurai",
         "season_year": "2023",
-        "genres": "Documentary, History",
+        "genres": "Documentary, Hidirectorsstory",
         "artist": "Ken Watanabe",
         "directors": "Akira Sato",
         "writer": "Takeshi Yamamoto",
@@ -76,7 +86,12 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 100,
+      "total_comment": 30,
+      "url": "https://flipfit-cdn.akamaized.net/flip_hls/6656423247ffe600199e8363-15125d/video_h1.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5542",
@@ -102,7 +117,12 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://flipfit-cdn.akamaized.net/flip_hls/661f570aab9d840019942b80-473e0b/video_h1.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5543",
@@ -128,7 +148,12 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5544",
@@ -154,7 +179,12 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5545",
@@ -180,7 +210,12 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5566",
@@ -206,15 +241,20 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5567",
       "program_id": "585",
       "title_of_program": "Title: The Rise of the Dragon Empire",
       "title_of_video": "Playlist Title: Dragon Saga",
-      "thumbnail": "https://images.dev.ottclouds.com/4/dragon_thumbnail.jpg",
-      "thumbnail_large": "https://images.dev.ottclouds.com/4/dragon_thumbnail_large.jpg",
+      "thumbnail": "https://images.dev.ottclouds.com/4/118oMMeAtGe6oDU2VHNp_MEDIA_20230522-200658_1684811218315_MUKPZ.jpg?Expires=1729493545&Signature=SxwlGlJCuQE9Qoq-kUSseBxB5vXBOZbslDGUmfjdAceKeGiKZ1vLIYlCcjpDdv8vgHhLX86FXsGsM~tf4pmClJG~rVaJmkRnwC61nvyZNpErjUJG1D87M8OAsEOswHBmTUycIT-kxPDaqM3TMaDaCBCP-ltQBqOqqE6zzii7goMl0fH4exJhQBkeqPmKvt~FXqFv~nzUGQ2mU2DolFWfkw~VYB-mMtIgYtO~tJSMSiwmIICp1GasuY-2kddj8GsXq4yAj~HaX5ZRetOxrXyVdM2AwemXTdTQsQaNtNfkj4x4Q40Gk54~J33KS8lVs8oUvzjLbHtv7naVQ2CSkpXE7Q__&Key-Pair-Id=K365448S5O69EO",
+      "thumbnail_large": "https://images.dev.ottclouds.com/4/118oMMeAtGe6oDU2VHNp_MEDIA_20230522-200658_1684811218315_MUKPZ.jpg?Expires=1729493545&Signature=SxwlGlJCuQE9Qoq-kUSseBxB5vXBOZbslDGUmfjdAceKeGiKZ1vLIYlCcjpDdv8vgHhLX86FXsGsM~tf4pmClJG~rVaJmkRnwC61nvyZNpErjUJG1D87M8OAsEOswHBmTUycIT-kxPDaqM3TMaDaCBCP-ltQBqOqqE6zzii7goMl0fH4exJhQBkeqPmKvt~FXqFv~nzUGQ2mU2DolFWfkw~VYB-mMtIgYtO~tJSMSiwmIICp1GasuY-2kddj8GsXq4yAj~HaX5ZRetOxrXyVdM2AwemXTdTQsQaNtNfkj4x4Q40Gk54~J33KS8lVs8oUvzjLbHtv7naVQ2CSkpXE7Q__&Key-Pair-Id=K365448S5O69EO",
       "duration": "165000",
       "metadatas": {
         "title": "Dragon Empire Documentary",
@@ -232,15 +272,20 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": true,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     },
     {
       "media_id": "5568",
       "program_id": "585",
       "title_of_program": "Title: Space Explorers",
       "title_of_video": "Playlist Title: Beyond the Stars",
-      "thumbnail": "https://images.dev.ottclouds.com/4/space_thumbnail.jpg",
-      "thumbnail_large": "https://images.dev.ottclouds.com/4/space_thumbnail_large.jpg",
+      "thumbnail": "https://images.dev.ottclouds.com/4/10EPDliFYaiWcC6iNgVh8QcH7YplMw.jpg?Expires=1729493545&Signature=OO2WgO7X6ueW71W5k8BNGF5D0G-2ezQ9GTmavF66Vrwaaxe53Ny5PeQAPZZgcPVIf5F6FBfbfial8dm-wSYxmD8c3HCUVQ-k46WdXL39PCEZZGcnN3wgwH2WUQsy1scvSHwioJN3RcwndcG39P3NedzM3R81xp9-O-l3ZhMcpKJj10VFofyBFAAqUjUvLqESUrQa0SqL0ZJrGGrX-aKRjgLa5WCLkN2eP48vecw45eUXUf6VUvI97TffmD8W9x2~fex-E~4jHVtR~Cf4HjU3zeIoKq7I8Ijhu27EffwPBZuhftj5Oh3DzkTUmGhJepjCQI09SXD2seFP2rno90ToVA__&Key-Pair-Id=K365448S5O69EO",
+      "thumbnail_large": "https://images.dev.ottclouds.com/4/10EPDliFYaiWcC6iNgVh8QcH7YplMw.jpg?Expires=1729493545&Signature=OO2WgO7X6ueW71W5k8BNGF5D0G-2ezQ9GTmavF66Vrwaaxe53Ny5PeQAPZZgcPVIf5F6FBfbfial8dm-wSYxmD8c3HCUVQ-k46WdXL39PCEZZGcnN3wgwH2WUQsy1scvSHwioJN3RcwndcG39P3NedzM3R81xp9-O-l3ZhMcpKJj10VFofyBFAAqUjUvLqESUrQa0SqL0ZJrGGrX-aKRjgLa5WCLkN2eP48vecw45eUXUf6VUvI97TffmD8W9x2~fex-E~4jHVtR~Cf4HjU3zeIoKq7I8Ijhu27EffwPBZuhftj5Oh3DzkTUmGhJepjCQI09SXD2seFP2rno90ToVA__&Key-Pair-Id=K365448S5O69EO",
       "duration": "120000",
       "metadatas": {
         "title": "Space Explorers Documentary",
@@ -258,8 +303,14 @@
       },
       "accept_download": false,
       "geo_block": false,
-      "resume_position": 10000
+      "has_liked": false,
+      "is_saved": false,
+      "total_like": 1980,
+      "total_comment": 20,
+      "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8",
+      "resume_position": "10000"
     }
   ],
+  "total_rows": 10,
   "success": true
 }
