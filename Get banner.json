@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "title": "Banner1",
+      "image": "https://picsum.photos/id/300/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6016",
+        "program_id": "705",
+        "title_of_program": "Attack on Titan 03",
+        "title_of_video": "Titan p1",
+        "thumbnail": "https://picsum.photos/id/200/200/300",
+        "thumbnail_large": "https://picsum.photos/id/200/200/300",
+        "duration": "120235",
+        "resume_position": "10000"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Banner2",
+      "image": "https://picsum.photos/id/301/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6017",
+        "program_id": "706",
+        "title_of_program": "Attack on Titan 04",
+        "title_of_video": "Titan p2",
+        "thumbnail": "https://picsum.photos/id/201/200/300",
+        "thumbnail_large": "https://picsum.photos/id/201/200/300",
+        "duration": "150235",
+        "resume_position": "20000"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Banner3",
+      "image": "https://picsum.photos/id/302/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6018",
+        "program_id": "707",
+        "title_of_program": "Attack on Titan 05",
+        "title_of_video": "Titan p3",
+        "thumbnail": "https://picsum.photos/id/202/200/300",
+        "thumbnail_large": "https://picsum.photos/id/202/200/300",
+        "duration": "160235",
+        "resume_position": "30000"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Banner4",
+      "image": "https://picsum.photos/id/303/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6019",
+        "program_id": "708",
+        "title_of_program": "Attack on Titan 06",
+        "title_of_video": "Titan p4",
+        "thumbnail": "https://picsum.photos/id/203/200/300",
+        "thumbnail_large": "https://picsum.photos/id/203/200/300",
+        "duration": "170235",
+        "resume_position": "40000"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Banner5",
+      "image": "https://picsum.photos/id/304/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6020",
+        "program_id": "709",
+        "title_of_program": "Attack on Titan 07",
+        "title_of_video": "Titan p5",
+        "thumbnail": "https://picsum.photos/id/204/200/300",
+        "thumbnail_large": "https://picsum.photos/id/204/200/300",
+        "duration": "180235",
+        "resume_position": "50000"
+      }
+    },
+    {
+      "id": "6",
+      "title": "Banner6",
+      "image": "https://picsum.photos/id/305/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6021",
+        "program_id": "710",
+        "title_of_program": "Attack on Titan 08",
+        "title_of_video": "Titan p6",
+        "thumbnail": "https://picsum.photos/id/205/200/300",
+        "thumbnail_large": "https://picsum.photos/id/205/200/300",
+        "duration": "190235",
+        "resume_position": "60000"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Banner7",
+      "image": "https://picsum.photos/id/306/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6022",
+        "program_id": "711",
+        "title_of_program": "Attack on Titan 09",
+        "title_of_video": "Titan p7",
+        "thumbnail": "https://picsum.photos/id/206/200/300",
+        "thumbnail_large": "https://picsum.photos/id/206/200/300",
+        "duration": "200235",
+        "resume_position": "70000"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Banner8",
+      "image": "https://picsum.photos/id/307/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6023",
+        "program_id": "712",
+        "title_of_program": "Attack on Titan 10",
+        "title_of_video": "Titan p8",
+        "thumbnail": "https://picsum.photos/id/207/200/300",
+        "thumbnail_large": "https://picsum.photos/id/207/200/300",
+        "duration": "210235",
+        "resume_position": "80000"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Banner9",
+      "image": "https://picsum.photos/id/308/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6024",
+        "program_id": "713",
+        "title_of_program": "Attack on Titan 11",
+        "title_of_video": "Titan p9",
+        "thumbnail": "https://picsum.photos/id/208/200/300",
+        "thumbnail_large": "https://picsum.photos/id/208/200/300",
+        "duration": "220235",
+        "resume_position": "90000"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Banner10",
+      "image": "https://picsum.photos/id/309/1200/1800",
+      "banner_type": "VOD",
+      "video": {
+        "media_id": "6025",
+        "program_id": "714",
+        "title_of_program": "Attack on Titan 12",
+        "title_of_video": "Titan p10",
+        "thumbnail": "https://picsum.photos/id/209/200/300",
+        "thumbnail_large": "https://picsum.photos/id/209/200/300",
+        "duration": "230235",
+        "resume_position": "100000"
+      }
+    }
+  ],
+  "success": true,
+  "total_rows": 10
+}
