@@ -1,0 +1,61 @@
+{
+  "success": true,
+  "data": [
+    {
+      "type": "my_list",
+      "play_list": {
+        "added": true,
+        "id": "1",
+        "title": ""
+      }
+    },
+    {
+      "type": "custom_playlist",
+      "play_list": {
+        "title": "Test 2",
+        "added": false,
+        "id": "90772"
+      }
+    },
+    {
+      "type": "custom_playlist",
+      "play_list": {
+        "added": true,
+        "id": "2884",
+        "title": "G"
+      }
+    },
+    {
+      "type": "custom_playlist",
+      "play_list": {
+        "added": true,
+        "id": "15573",
+        "title": "Test"
+      }
+    },
+    {
+      "type": "custom_playlist",
+      "play_list": {
+        "title": "High",
+        "added": false,
+        "id": "4600"
+      }
+    },
+    {
+      "type": "custom_playlist",
+      "play_list": {
+        "title": "Te",
+        "added": false,
+        "id": "69408"
+      }
+    },
+    {
+      "type": "custom_playlist",
+      "play_list": {
+        "added": false,
+        "id": "2",
+        "title": "Cartoon"
+      }
+    }
+  ]
+}
