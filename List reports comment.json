@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "content": "Unwanted commercial content or spam"
+    },
+    {
+      "id": 2,
+      "content": "test"
+    },
+    {
+      "id": 11,
+      "content": "Pornography or sexually explicit material"
+    },
+    {
+      "id": 12,
+      "content": "Child abuse"
+    },
+    {
+      "id": 13,
+      "content": "Hate speech or graphic violence"
+    },
+    {
+      "id": 14,
+      "content": "Promotes terrorism"
+    },
+    {
+      "id": 15,
+      "content": "Harassment or bullying"
+    },
+    {
+      "id": 16,
+      "content": "Suicide or self injury"
+    },
+    {
+      "id": 17,
+      "content": "Misinformation"
+    },
+    {
+      "id": 18,
+      "content": "Other"
+    }
+  ],
+  "success": true
+}
