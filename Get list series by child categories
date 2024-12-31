@@ -1,0 +1,46 @@
+{
+  "data": {
+    "category_id": "440",
+    "category_name": "Titan Sub02",
+    "playlist": [
+      {
+        "program_id": "705",
+        "title_of_program": "Attack on Titan 03",
+        "thumbnail": "https://picsum.photos/id/101/200/300",
+        "is_new": true,
+        "has_new_episode": true,
+        "update_date": "2024-11-14 03:32:43",
+        "first_video": {
+          "media_id": "6016",
+          "program_id": "705",
+          "title_of_program": "Attack on Titan 03",
+          "title_of_video": "Titan p1",
+          "thumbnail": "https://picsum.photos/id/102/200/300",
+          "thumbnail_large": "https://picsum.photos/id/103/200/300",
+          "duration": "120235",
+          "resume_position": "10000"
+        }
+      },
+      {
+        "program_id": "706",
+        "title_of_program": "Attack on Titan 04",
+        "thumbnail": "https://picsum.photos/id/104/200/300",
+        "is_new": false,
+        "has_new_episode": true,
+        "update_date": "2024-11-15 03:32:43",
+        "first_video": {
+          "media_id": "6017",
+          "program_id": "706",
+          "title_of_program": "Attack on Titan 04",
+          "title_of_video": "Titan p2",
+          "thumbnail": "https://picsum.photos/id/105/200/300",
+          "thumbnail_large": "https://picsum.photos/id/106/200/300",
+          "duration": "150235",
+          "resume_position": "10000"
+        }
+      }
+    ],
+    "total_item": 2
+  },
+  "success": true
+}
