@@ -1,0 +1,14 @@
+{
+  "data": {
+    "id": "1",
+    "email": "",
+    "full_name": "Khoa tran",
+    "is_verify_email": false,
+    "date_of_birth": "06/03/1993",
+    "avatar": "https://picsum.photos/id/102/1000/1000",
+    "gender": "male",
+    "register_type": "email",
+    "is_onboarding_completed": false
+  },
+  "success": true
+}
